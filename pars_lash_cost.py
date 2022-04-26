@@ -1,3 +1,5 @@
+# Run the file, specify the number of pages for parsing. After that, a file "cards.csv" with the added information will appear.
+
 import requests
 from bs4 import BeautifulSoup
 import csv
